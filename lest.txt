@@ -1,0 +1,6 @@
+ check - colocar error cuando un parámetro no venga
+ - "En caso de volver a tener las fechas hay que configurar la salidad de estas ya que salen en formato 'YYYY-MM-DD'"
+ - Falta corregir llamada a .env
+ - " falta que cuando el formato sea incorrecto retornar un error de formato de fecha" 
+  Colocar error cuando se quiere agregar un usuario que ya existe
+
